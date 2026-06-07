@@ -1,0 +1,10 @@
+Phase,Topics,Why Important for Your Targets,Time,Problems
+1,Arrays + Strings + Hashing,"Almost every company (Amazon, Microsoft, Walmart)",2-3 weeks,60-70
+2,LinkedList + Stack + Queue,"Microsoft, Cisco, Atlassian",1-2 weeks,40
+3,Recursion + Backtracking,"Google, Meta, Juspay",2 weeks,40
+4,Binary Search + Sorting,All companies,1 week,30
+5,Trees (Binary + BST),"Very High (Microsoft, Amazon, Google)",2 weeks,50
+6,Heaps / Priority Queue,"Amazon, Microsoft, Walmart",1 week,25
+7,"Graphs (BFS, DFS)","Atlassian, Cisco, Google",2 weeks,40
+8,Dynamic Programming (Start easy),"Juspay, Google, Microsoft (Hard round)",3-4 weeks,60+
+9,"Advanced (Trie, Segment Tree, Bit Manipulation)",Top companies extra edge,After above,30
