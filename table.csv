@@ -1,0 +1,14 @@
+Order,Topic,Important Concepts,Practice
+1,Arrays,"Traversal, Prefix sum, Two pointers, Sliding Window",Easy-Medium
+2,Strings,"Reverse, Palindrome, Substring, Anagrams",Easy
+3,LinkedList,"Singly, Doubly, Reverse, Cycle detection",Very Important
+4,Stacks,"Next Greater, Balanced Parentheses",Easy-Medium
+5,Queues,"Simple, Circular, Deque",Easy
+6,Recursion,Basic + Backtracking basics,Must
+7,Sorting,"Bubble, Selection, Insertion, Merge, Quick",Learn all
+8,Searching,Binary Search (very important),Must
+9,HashMap / HashSet,"Frequency count, Two sum, Subarray problems",Super Important
+10,Trees,"Binary Tree, BST, Traversals (Pre, In, Post, Level)",Very Important
+11,Heaps / PriorityQueue,"Kth largest, Merge k sorted lists",Medium
+12,Graphs,"BFS, DFS, Shortest Path basics",Medium-Hard
+13,Dynamic Programming,"1D DP, 2D DP (start simple)",Hard (last lo)
