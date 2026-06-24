@@ -1,0 +1,170 @@
+# Arrays Interview Preparation Roadmap
+
+This repository contains frequently asked Array interview questions from top product-based companies like Juspay, Atlassian, Salesforce, Microsoft, Amazon, and others.
+
+The problems are categorized into Easy, Medium, and Hard levels for structured preparation.
+
+---
+
+# Easy Level
+
+1. Find Largest Element
+2. Find Second Largest Element
+3. Check if Array is Sorted
+4. Remove Duplicates from Sorted Array
+5. Move Zeroes to End
+6. Reverse an Array
+7. Left Rotate Array by 1 Place
+8. Left Rotate Array by K Places
+9. Find Missing Number (1 to N)
+10. Find Single Number (all others appear twice)
+11. Union of Two Sorted Arrays
+12. Intersection of Two Sorted Arrays
+13. Count Frequency of Elements
+14. Find Leaders in Array
+15. Linear Search
+16. Maximum Consecutive Ones
+17. Find Majority Element (> n/2 times)
+
+---
+
+# Medium Level (Must Do)
+
+18. Two Sum
+19. Best Time to Buy and Sell Stock
+20. Rearrange Array by Sign
+21. Next Permutation
+22. Kadane's Algorithm (Maximum Subarray Sum)
+23. Maximum Product Subarray
+24. Sort Colors (Dutch National Flag Algorithm)
+25. Longest Consecutive Sequence
+26. Set Matrix Zeroes
+27. Rotate Matrix by 90 Degrees
+28. Spiral Matrix Traversal
+29. Pascal Triangle
+30. Majority Element II (> n/3 times)
+31. Subarray Sum Equals K
+32. Count Subarrays with Given Sum
+33. Longest Subarray with Sum K
+34. Product of Array Except Self
+35. Merge Intervals
+36. Insert Interval
+37. Merge Sorted Arrays
+38. Find Duplicate Number
+39. Missing and Repeating Number
+40. Container With Most Water
+
+---
+
+# Hard Level (Juspay / Atlassian Favorites)
+
+41. Trapping Rain Water
+42. Sliding Window Maximum
+43. Maximum Sum Circular Subarray
+44. First Missing Positive
+45. Median of Two Sorted Arrays
+46. Count Inversions
+47. Reverse Pairs
+48. Merge K Sorted Arrays
+49. Largest Rectangle in Histogram
+50. Maximum Rectangle in Binary Matrix
+51. Longest Increasing Subsequence (LIS)
+52. Count Smaller Numbers After Self
+53. Split Array Largest Sum
+54. Minimum Number of Operations to Make Array Continuous
+55. Kth Largest Element in Array
+56. Top K Frequent Elements
+57. Shortest Unsorted Continuous Subarray
+58. Maximum XOR of Two Numbers
+59. Count Subarrays with XOR K
+60. Minimum Window Subarray Variants
+
+---
+
+# Company-Wise Frequently Asked Questions
+
+## Juspay
+
+- Two Sum
+- Subarray Sum Equals K
+- Sliding Window Maximum
+- Trapping Rain Water
+- Longest Consecutive Sequence
+- Kth Largest Element
+- Median of Two Sorted Arrays
+
+## Atlassian
+
+- Merge Intervals
+- Product of Array Except Self
+- Rotate Matrix
+- Majority Element
+- Maximum Product Subarray
+- Container With Most Water
+- Top K Frequent Elements
+
+## Salesforce
+
+- Kadane's Algorithm
+- Next Permutation
+- Set Matrix Zeroes
+- Spiral Matrix
+- Merge Sorted Arrays
+- Find Duplicate Number
+- Longest Increasing Subsequence
+
+## Microsoft
+
+- Trapping Rain Water
+- Sliding Window Maximum
+- Median of Two Sorted Arrays
+- First Missing Positive
+- Maximum Rectangle in Binary Matrix
+
+---
+
+# Top 20 Must-Do Array Problems for Placements
+
+These problems are highly recommended for 2027 placement preparation.
+
+1. Second Largest Element
+2. Move Zeroes
+3. Remove Duplicates
+4. Rotate Array
+5. Two Sum
+6. Best Time to Buy and Sell Stock
+7. Kadane's Algorithm
+8. Next Permutation
+9. Sort Colors
+10. Majority Element
+11. Merge Intervals
+12. Product of Array Except Self
+13. Subarray Sum Equals K
+14. Longest Consecutive Sequence
+15. Find Duplicate Number
+16. Container With Most Water
+17. Trapping Rain Water
+18. Sliding Window Maximum
+19. Kth Largest Element
+20. Median of Two Sorted Arrays
+
+---
+
+# Goal
+
+Complete all 60 problems with:
+- Brute Force Approach
+- Better Approach
+- Optimal Approach
+- Time Complexity Analysis
+- Space Complexity Analysis
+
+Target:
+- Product-Based Companies
+- Internships
+- Campus Placements
+- Off-Campus Opportunities
+
+---
+
+⭐ If you find this roadmap useful, give this repository a star.
