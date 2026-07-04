@@ -1,0 +1,16 @@
+| #    | Problem                                        | Key Concept               | Difficulty |
+| ---- | ---------------------------------------------- | ------------------------- | ---------- |
+| ✅ 1  | Largest Element                                | Linear traversal          | Easy       |
+| ✅ 2  | Second Largest Element                         | Maintain max & second max | Easy       |
+| ✅ 3  | Check if Array is Sorted                       | Single traversal          | Easy       |
+| ✅ 4  | Remove Duplicates from Sorted Array            | Two pointers              | Easy       |
+| ✅ 5  | Left Rotate Array by One                       | Basic array manipulation  | Easy       |
+| ✅ 6  | Left Rotate Array by K Places                  | Reversal algorithm        | Easy       |
+| ✅ 7  | Move Zeros to End                              | Two pointers / swapping   | Easy       |
+| ✅ 8  | Linear Search                                  | Basic traversal           | Easy       |
+| ✅ 9  | Union of Two Sorted Arrays                     | Two pointers              | Easy       |
+| ✅ 10 | Find Missing Number                            | Sum/XOR                   | Easy       |
+| ✅ 11 | Maximum Consecutive Ones                       | Counting                  | Easy       |
+| ✅ 12 | Find the Number Appears Once                   | XOR                       | Medium     |
+| ✅ 13 | Longest Subarray with Sum K (Positive Numbers) | Sliding Window            | Medium     |
+| ✅ 14 | Longest Subarray with Sum K                    | Prefix Sum + HashMap      | Medium     |
