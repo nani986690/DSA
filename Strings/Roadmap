@@ -1,0 +1,32 @@
+String Roadmap
+🟢 Level 1 (Basics)
+✅ String Length
+✅ Count Vowels and Consonants
+✅ Reverse a String
+✅ Check Palindrome
+✅ Convert Uppercase to Lowercase
+✅ Count Words in a String
+✅ Remove Spaces
+✅ Find Frequency of a Character
+✅ Count Digits, Letters, and Special Characters
+✅ Check if Two Strings are Equal
+🟡 Level 2 (Intermediate)
+Reverse Words in a String
+Longest Common Prefix
+Valid Anagram
+Isomorphic Strings
+Rotate String
+Largest Odd Number in String
+Sort Characters by Frequency
+Remove Duplicate Characters
+String Compression
+Roman to Integer
+🔴 Level 3 (Advanced)
+Longest Substring Without Repeating Characters
+Minimum Window Substring
+Longest Palindromic Substring
+KMP Pattern Matching
+Rabin-Karp
+Z Algorithm
+Edit Distance
+Wildcard Matching
