@@ -33,7 +33,7 @@ class Codechef {
             k--;
         }
 
-        // Print Result
+        // Print 
         System.out.println(Arrays.toString(nums1));
     }
 }
