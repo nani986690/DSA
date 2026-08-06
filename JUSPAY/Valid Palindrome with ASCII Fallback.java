@@ -1,3 +1,14 @@
+/*Problem Statement 1
+You are given a string with alphabets. You need to convert the string to lowercase and check if the string is a palindromic one.
+
+If the string is a palindrome, print the length of the palindromic string. If that string is a non-palindromic one, print the ASCII value of the first character of the alphabet in the given string.
+
+Input Format
+The input consists of a single string containing only alphabetic characters (both uppercase and lowercase).
+
+Output Format
+Print the Length of the palindromic string if it is a palindrome after performing the above operations. Otherwise, print the ASCII value of the first character.*/
+
 import java.util.Scanner;
 
 public class Main {
